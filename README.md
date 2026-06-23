@@ -91,28 +91,7 @@ The dashboard provides insights into:
 
 ---
 
-## Dashboard Preview
-
-Add screenshots of your Power BI dashboard here.
-
-```text
-images/
-├── dashboard1.png
-├── dashboard2.png
-└── dashboard3.png
-```
-
-After uploading screenshots, use:
-
-```md
-![Dashboard 1](images/dashboard1.png)
-
-![Dashboard 2](images/dashboard2.png)
-
-![Dashboard 3](images/dashboard3.png)
-```
-
----
+📄 **Dashboard PDF:** [View Dashboard PDF](./OLA%20Dashboard.pdf)
 
 ## Key Findings
 
